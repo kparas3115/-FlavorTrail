@@ -12,6 +12,8 @@ A full-stack food delivery platform built using the **MERN stack** with seamless
 - 🗺️ Rider’s route highlighted with traffic color codes
 - 📦 My Orders section to track all past and current orders
 - ⚙️ Admin Dashboard (optional) to manage menu and orders
+- ✅ Rider App Integration for Live Updates
+- ✅ Admin Panel for Restaurant Owners
 
 🛠️ Tech Stack
 
@@ -24,9 +26,7 @@ A full-stack food delivery platform built using the **MERN stack** with seamless
 
 
 📦 Folder Structure
-bash
-Copy
-Edit
+
 /backend
   └── models/
   └── routes/
@@ -39,14 +39,9 @@ Edit
       ├── pages/
       ├── assets/
       └── Context/
-📸 Screenshots
 
 
-
-💡 Features to Add Next
-✅ Rider App Integration for Live Updates
-
-✅ Admin Panel for Restaurant Owners
+💡 Future Scope
 
 📱 Mobile responsiveness
 
