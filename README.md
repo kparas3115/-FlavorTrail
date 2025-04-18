@@ -1,7 +1,4 @@
--FlavorTrail
-Delivering Delight with Real-Time Precision
-
-🍔 MERN Stack Food Delivery App with Real-Time Order Tracking 🚴‍♂️📍
+🍔**FlavorTrail - Delivering Delight with Real-Time Precision**🚴‍♂️📍
 
 A full-stack food delivery platform built using the **MERN stack** with seamless UI/UX, live order tracking using **Mapbox Traffic API**, dynamic routing using **Leaflet**, and traffic-aware ETA calculations. 🧭🍕
 
